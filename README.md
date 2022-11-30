@@ -1,8 +1,8 @@
 # Kickstarted Campaign Analysis
 ## Overview of Project
-This analysis requested by the increasingly successful playwright, Ms. Louise, reveals the most successful campaigns based on category, subcategory, monetary accomplishment, outcomes, etc... Ms Louise's goal is to execute her first fundraising campaign through a her play, *"Fever"*. Through this analysis, Ms. Louise will be able to run a successful campaign based on data findings for campaigns successful in the "theater, play" categories. Within this analysis, shewill be able to measure the stretch of her budget to successfully execute a "play" campaign.
+This analysis requested by the increasingly successful playwright, Ms. Louise, reveals the most successful campaigns based on category, subcategory, monetary accomplishment, outcomes, etc... Ms Louise's goal is to execute her first fundraising campaign through her play, *"Fever"*. Through this analysis, Ms. Louise will be able to run a successful campaign based on data findings in the "theater, play" categories. Within this analysis, she will discover what time and goal will result in a successful campaign from which we can deduce other success factors such as category success/failure/cancellation ratios.
 ### Purpose
-The analysis was performed with by comparing the success of different categories based on time, outcomes, goals/pledged, cost, dates, and type/category.
+The analysis was performed with by comparing the success of different categories based on time, outcomes, goals/pledged, dates, and type/category.
 ## Analysis and Challenges
 Completing the analysis, Louise has a high chance of success as illustrated below.
 ### Analysis of Outcomes Based on Launch Date
